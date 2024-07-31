@@ -1,0 +1,18 @@
+1.E
+2.B
+3.G
+4.D
+5.A
+6.E
+
+KUNCI C : FRED 1 SENAR 2
+          FRED 2 SENAR 4
+          FRED 3 SENAR 5
+  
+KUNCI D : FRED 2 SENAR 1
+          FRED 2 SENAR 3
+          FRED 3 SENAR 2 
+
+KUNCI C : FRED 1 SENAR 3
+          FRED 2 SENAR 4
+          FRED 2 SENAR 5  

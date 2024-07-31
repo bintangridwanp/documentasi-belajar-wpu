@@ -1,0 +1,13 @@
+h1{
+	font-family: monospace;
+	color: rgb(210, 105, 30);
+	font-size: 100px;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+p{
+	font-family: sans-serif;
+	font-style: italic;
+	line-height: 30px;
+}

@@ -1,0 +1,28 @@
+{
+    "menu": [
+      {
+        "name": "TOMORO aren latte",
+        "price": "Rp18.000—Rp22.000"
+      },
+      {
+        "name": "Caffe latte",
+        "price": "Rp22.000—Rp25.000"
+      },
+      {
+        "name": "Cappuccino",
+        "price": "Rp22.000—Rp25.000"
+      },
+      {
+        "name": "Caffe mocha",
+        "price": "Rp23.000—Rp26.000"
+      },
+      {
+        "name": "Caramel macchiato",
+        "price": "Rp23.000—Rp26.000"
+      },
+      {
+        "name": "Breve latte",
+        "price": "Rp28.000—Rp30.000"
+      }
+   ]
+}

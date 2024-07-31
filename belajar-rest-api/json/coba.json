@@ -1,0 +1,18 @@
+[
+  {
+    "nama" : "monkey d luffy",
+    "umur" : 19,
+    "cita-cita" : "menjadi baja laut",
+    "hobby" : [
+      "makan",
+      "tidur",
+      "bertarung"
+    ],
+    "berlayar" : true,
+    "teman" : [
+      "zoro",
+      "nami",
+      "copper"
+    ]
+  }
+]
